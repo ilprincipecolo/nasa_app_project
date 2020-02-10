@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "homepage": "https://ilprincipecolo.github.io/nasa_app_project/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
